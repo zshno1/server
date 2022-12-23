@@ -8,6 +8,6 @@ http.createServer(function(req, res) {
             console.log("创建成功")
         }
     })
-}).listen(3000,function(){
-    console.log("服务启动了， http://localhost:3000")
+}).listen(3001,function(){
+    console.log("服务启动了， http://localhost:3001")
 })
