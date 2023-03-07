@@ -13,11 +13,6 @@ app.all('*', function(req, res, next) {
     res.header("Content-Type", "application/json;charset=utf-8");
     next();
 });
-
-
-
-
-
 //写个接口123
 app.get('/user/item', function(req, res) {
     console.log(user)

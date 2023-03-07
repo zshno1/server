@@ -1,3 +1,6 @@
+
+### server.js
+
 > 你是不是一直存在个困惑？vue项目build出来的dist文件夹下index.html直接点开始控制台一顿报错。今天咱就给他治服。
 <img src="https://img2023.cnblogs.com/blog/1126296/202212/1126296-20221222171239413-858182100.png" style="zoom:50%;" />
 

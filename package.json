@@ -20,7 +20,8 @@
   "homepage": "https://github.com/zshno1/server#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "vite": "^2.9.2"
   },
   "devDependencies": {
     "http-proxy-middleware": "^2.0.6"
